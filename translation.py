@@ -15,7 +15,7 @@ Just send a File or Media to get started
 By @Tellybots_4u
     """
 RENAME_403_ERR = "What Are You Doing? Bruh!!"
-    BANNED_USER_TEXT = "Sorry!! Sir you are banned to use me! \n \n Contact our support group @Tellybots_support For more Details.. " 
+    BANNED_USER_TEXT = "Sorry!! Sir you are banned to use me. That means you are not able to use me! \n \n Contact our support group : @Tellybots_support For more Details.. "
     ABS_TEXT = "What Are You Trying To Do, Mate?"
     UPGRADE_TEXT = "Contact : @Tellybots_support"
     DOWNLOAD_START = "<b> 📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ⌉ \n│\n</b>"
