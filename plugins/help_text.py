@@ -110,8 +110,8 @@ async def text(bot, update):
                         InlineKeyboardButton("❗ Help", callback_data = "ghelp")
                 ],
                 [
-                    InlineKeyboardButton(' Support Channel', url='https://t.me/tellybots_4u'),
-                    InlineKeyboardButton(' Feedback', url='https://t.me/tellybots_support')
+                    InlineKeyboardButton(' 🗯️ Support Channel', url='https://t.me/tellybots_4u'),
+                    InlineKeyboardButton(' 💕 Feedback', url='https://t.me/tellybots_support')
                 ]
             ]
         ),
