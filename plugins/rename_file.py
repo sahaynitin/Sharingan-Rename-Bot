@@ -179,7 +179,7 @@ async def rename_doc(bot, update):
                 caption=f"{caption_text2}",
                 parse_mode = "html",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="🍬 Anime Channel", url=f"https://t.me/Cartoon_Seriesz")]
+                    [ InlineKeyboardButton(text=" Bots Updates", url=f"https://t.me/tellybots_4u")]
               ]), 
                 reply_to_message_id=update.reply_to_message.message_id,
                 progress=progress_for_pyrogram,
